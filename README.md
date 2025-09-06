@@ -69,7 +69,7 @@ A simple TODO application built with Spring Boot, Thymeleaf, and MySQL. Users ca
 
 ## Screenshots
 
-![TodoApp Screenshot](screenshots/screenshot-1.png)
+![TodoApp Screenshot](screenshots/screenshot-1.PNG)
 
 ---
 
